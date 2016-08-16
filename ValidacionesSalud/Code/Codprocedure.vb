@@ -27,6 +27,36 @@ Public Class Codprocedure
         cmd.ExecuteNonQuery()
         Conectar_.Close()
     End Sub
+    Public Sub Hij_papellido()
+        Dim Conectar_ As New MySqlConnection(conect.CrearConexion.ConnectionString)
+        Conectar_.Open()
+        Dim cmd As New MySqlCommand
+        cmd.Connection = Conectar_
+        cmd.CommandText = "PA_HIJPAPELLIDO"
+        cmd.CommandType = CommandType.StoredProcedure
+        cmd.ExecuteNonQuery()
+        Conectar_.Close()
+    End Sub
+    Public Sub Hij_sapellido()
+        Dim Conectar_ As New MySqlConnection(conect.CrearConexion.ConnectionString)
+        Conectar_.Open()
+        Dim cmd As New MySqlCommand
+        cmd.Connection = Conectar_
+        cmd.CommandText = "PA_HIJSAPELLIDO"
+        cmd.CommandType = CommandType.StoredProcedure
+        cmd.ExecuteNonQuery()
+        Conectar_.Close()
+    End Sub
+    Public Sub Hij_snombre()
+        Dim Conectar_ As New MySqlConnection(conect.CrearConexion.ConnectionString)
+        Conectar_.Open()
+        Dim cmd As New MySqlCommand
+        cmd.Connection = Conectar_
+        cmd.CommandText = "PA_HIJSNOMBRE"
+        cmd.CommandType = CommandType.StoredProcedure
+        cmd.ExecuteNonQuery()
+        Conectar_.Close()
+    End Sub
     Public Sub Sexo_Hombre_Mal()
         Dim Conectar_ As New MySqlConnection(conect.CrearConexion.ConnectionString)
         Conectar_.Open()

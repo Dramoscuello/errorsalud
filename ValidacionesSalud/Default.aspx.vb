@@ -12,6 +12,7 @@ Public Class _Default
 
     Dim Nomre_Archivo As New DataTable
 
+
     Protected Sub Button3_Click1(sender As Object, e As EventArgs) Handles Button3.Click
         claseprocedure.Ceros_izquierda()
         claseprocedure.Sexo_Hombre_Mal()
@@ -24,6 +25,9 @@ Public Class _Default
         claseprocedure.Sexonoexiste()
         claseprocedure.Tipodocnoexiste()
         claseprocedure.Umenoexiste()
+        claseprocedure.Hij_papellido()
+        claseprocedure.Hij_sapellido()
+        claseprocedure.Hij_snombre()
         Llenar_Grid()
         'Longitudmax()
     End Sub
@@ -64,7 +68,7 @@ Public Class _Default
         Dim llenar_grid_temp As New DataSet
         llenar_grid_temp = claseprocedure.Llenar
         Dim row As DataRow = dt.NewRow()
-        row("Nombre Archivo") = "CREA UNA TABLA QUE GUARDE EL NOMBRE TEMP"
+        row("Nombre Archivo") = "Archivo"
         row("Numero de Registros") = llenar_grid_temp.Tables(0).Rows(0).Item(0).ToString()
         row("Registros Erroneos") = llenar_grid_temp.Tables(0).Rows(0).Item(1).ToString()
         dt.Rows.Add(row)
