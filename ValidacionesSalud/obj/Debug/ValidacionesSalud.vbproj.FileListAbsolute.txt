@@ -1,0 +1,218 @@
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\csc.exe
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\System.Collections.Immutable.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\vbc.exe
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\VBCSCompiler.exe
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\roslyn\VBCSCompiler.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\ValidacionesSalud.dll.config
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\ValidacionesSalud.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\ValidacionesSalud.pdb
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\WebForms_Basic.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Antlr3.Runtime.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\EntityFramework.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\EntityFramework.SqlServer.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Google.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Web.Infrastructure.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Newtonsoft.Json.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Owin.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\System.Web.Optimization.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\System.Web.Providers.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\WebGrease.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\System.Web.Optimization.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Antlr3.Runtime.pdb
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Newtonsoft.Json.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\EntityFramework.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\EntityFramework.SqlServer.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\System.Web.Providers.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Google.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\obj\Debug\ValidacionesSalud.vbprojResolveAssemblyReference.cache
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\obj\Debug\ValidacionesSalud.Resources.resources
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\obj\Debug\ValidacionesSalud.vbproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\obj\Debug\ValidacionesSalud.dll
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\obj\Debug\WebForms_Basic.xml
+c:\users\win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\obj\Debug\ValidacionesSalud.pdb
+C:\Users\Win10\documents\visual studio 2015\Projects\ValidacionesSalud\ValidacionesSalud\bin\MySql.Data.DLL
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.Resources.resources
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\obj\Debug\WebForms_Basic.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.pdb
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\ValidacionesSalud.dll.config
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\ValidacionesSalud.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\ValidacionesSalud.pdb
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\WebForms_Basic.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\MySql.Data.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Owin.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\System.Web.Providers.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\System.Web.Providers.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\ClosedXML.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\DocumentFormat.OpenXml.dll
+C:\Users\Administrador\Desktop\Manexka\Nueva carpeta\ValidacionesSalud\bin\ClosedXML.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\csc.exe
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\vbc.exe
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\ValidacionesSalud.dll.config
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\ValidacionesSalud.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\ValidacionesSalud.pdb
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\WebForms_Basic.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Antlr3.Runtime.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\ClosedXML.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\DocumentFormat.OpenXml.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.SqlServer.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Newtonsoft.Json.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Owin.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\System.Web.Optimization.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\System.Web.Providers.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\WebGrease.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\ClosedXML.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\System.Web.Optimization.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Antlr3.Runtime.pdb
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Newtonsoft.Json.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\EntityFramework.SqlServer.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\System.Web.Providers.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.vbprojResolveAssemblyReference.cache
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.Resources.resources
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.vbproj.GenerateResource.Cache
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.dll
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\obj\Debug\WebForms_Basic.xml
+C:\Users\Win10\Downloads\Compressed\Nueva carpeta\ValidacionesSalud\obj\Debug\ValidacionesSalud.pdb
